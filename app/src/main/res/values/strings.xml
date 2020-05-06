@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mapa Covid-19, R.D.</string>
+    <string name="title_activity_maps">Ubicaciones RD</string>
+    <string name="AcercaDeString">Aplicacion Android
+        "\n" Desarrollada por:
+        "\n" Michael Ceballos y Joel Emilio Navarro.
+        "\n" Republica Dominicana.</string>
+</resources>
